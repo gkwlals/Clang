@@ -6,7 +6,7 @@ int minus(int x, int y) {
 	return x - y;
 }
 void hello() {
-	printf("¾Æ¸Þ¸®Ä«³ë ¶¯±ä´Ù.");
+	printf("ì•„ë©”ë¦¬ì¹´ë…¸ ë•¡ê¸´ë‹¤.");
 }
 int main() {
 	//f(x): [input & output]
