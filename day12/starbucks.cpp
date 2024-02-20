@@ -24,7 +24,7 @@ int main() {
 	//Coffee* pCoffee;
 	//pCoffee = &a;
 	//pCoffee->price += 1000;
-	//printf("¿Ã∏ß:%s ∞°∞›:%d", a.name, a.price);
+	//printf("Ïù¥Î¶Ñ:%s Í∞ÄÍ≤©:%d", a.name, a.price);
 
 
 
